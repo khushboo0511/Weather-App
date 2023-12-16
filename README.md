@@ -1,1 +1,1 @@
-This React project tutorial guides you in building a weather application that leverages the OpenWeatherMap API for real-time weather data and the GeoDB API for places autocomplete. With this application, users can search for weather conditions in different locations and get accurate and up-to-date information.
+A weather application that leverages the OpenWeatherMap API for real-time weather data and the GeoDB API for places autocomplete. With this application, users can search for weather conditions in different locations and get accurate and up-to-date information.
